@@ -29,6 +29,23 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 2. 'file' contains the files for the backend connections.
 3. 'image' and 'jastimage' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
+## Screenshots
+- UI
+![{F84761B4-F269-4DAF-AFED-6B114B4A1229} png](https://user-images.githubusercontent.com/84188309/184503569-28049045-6483-4638-8f2a-f733ca37cd70.jpg)
+![{2C7A03B5-1B35-4B09-8836-DE0E04958397} png](https://user-images.githubusercontent.com/84188309/184503584-d927d5bd-82d4-4192-bd33-ccfc65e5d26f.jpg)
+
+- Register 
+
+![{EBB9248C-62E9-4180-975D-33B64074CC13} png](https://user-images.githubusercontent.com/84188309/184503548-c10b975d-73c1-4f5f-bfff-273271d87048.jpg)
+
+- Hospital Account 
+
+![{84D6B291-57B6-49E9-A8A5-F363E1B31EEA} png](https://user-images.githubusercontent.com/84188309/184503459-4ba39e43-b0f4-4a0e-a70d-ea08761e65bd.jpg)
+
+- User Account
+
+![{9F68859F-ECFC-4B30-B709-A61EF16490FA} png](https://user-images.githubusercontent.com/84188309/184503515-62925ca4-c5a8-4333-b448-8eb368eaee91.jpg)
+
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
